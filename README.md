@@ -44,6 +44,23 @@ The realizable k–ε turbulence model with Enhanced Wall Treatment (EWT) was us
 - All baffle cases showed pressure differences < 0.03 kPa.
 
 ---
+## 🖼️ Representative Figures
+<p align="left">
+  <img width="739" height="548" alt="image" src="https://github.com/user-attachments/assets/f432b6e5-6b08-451b-8fb0-c03c97e0ab36" />
+  
+  <img width="739" height="548" alt="image" src="https://github.com/user-attachments/assets/435f068d-3bfb-47ff-8014-27e70198911f" />
+
+  <img width="739" height="548" alt="image" src="https://github.com/user-attachments/assets/66cdd839-23ad-46cf-9fb8-e8f06de4cef4" />
+  
+  <img width="739" height="548" alt="image" src="https://github.com/user-attachments/assets/90e3cd12-a841-4dd4-9c3d-3cee992c1150" />
+
+</p>
+
+  - Velocity and pressure contours
+  - Graphs of velocity/pressure by radial range
+  - Comparison between hole, slit and plain inlet designs with/without baffles
+
+---
 
 ## ✅ Conclusion
 
